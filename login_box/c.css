@@ -116,7 +116,8 @@ body {
   align-items: center;
   gap: 12px;
 }
-.login_page_board .right .icon_links .social .social-link svg:hover {
+.login_page_board .right .icon_links .social .social-link svg:hover circle,
+path {
   color: #d18c4b;
   transform: scale(2px);
 }
